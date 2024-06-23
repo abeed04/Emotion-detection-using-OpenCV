@@ -1,0 +1,8 @@
+numpy ==2.0.0
+OpenCV ==4.10.0
+face-recognition ==1.3.0
+cmake ==3.29.6
+dlib ==19.24.4
+keras ==3.3.3
+Custom_CNN_model.keras
+Final_Resnet50_Best_model.keras
